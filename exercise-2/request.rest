@@ -1,0 +1,4 @@
+http://localhost:3000/exercise-1/Jimi
+
+###
+http://localhost:3000/exercise-1/Jimi?age=20

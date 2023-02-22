@@ -1,0 +1,26 @@
+{
+  "name": "exercise-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "author": "Jul Balgue",
+  "license": "UNLICENSED",
+  "private": "true",
+  "scripts": {
+    "dev": "nodemon -r esm server.js"
+  },
+  "dependencies": {
+    "compression": "^1.7.4",
+    "esm": "^3.2.25",
+    "express": "^4.18.2",
+    "http-errors": "^2.0.0",
+    "joi": "^17.6.4"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.19.6",
+    "@babel/plugin-transform-modules-commonjs": "^7.19.6",
+    "eslint": "^8.25.0",
+    "nodemon": "^2.0.20",
+    "regenerator-runtime": "^0.13.10"
+  }
+}
